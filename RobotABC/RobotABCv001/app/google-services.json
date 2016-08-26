@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "689906536510",
+    "firebase_url": "https://robot-abc.firebaseio.com",
+    "project_id": "robot-abc",
+    "storage_bucket": "robot-abc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689906536510:android:7cc6592b70f24909",
+        "android_client_info": {
+          "package_name": "ua.uagames.robotabcv001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689906536510-fat1qe7io9nmude5lppaqhjr05iqhq0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKg4cGcwuiB4EQQYXSS2bF4c6mi4OoxAk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
