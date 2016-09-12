@@ -1,4 +1,4 @@
-package ua.uagames.ur3streaming;
+package ua.uagames.ur3;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
