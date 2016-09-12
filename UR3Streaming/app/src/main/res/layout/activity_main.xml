@@ -8,26 +8,43 @@
         android:orientation="vertical"
         tools:context="ua.uagames.ur3streaming.MainActivity">
 
-    <com.google.android.gms.ads.AdView android:id="@+id/banner_top"
-                                       android:layout_height="wrap_content"
-                                       android:layout_width="match_parent"
-                                       ads:adSize="SMART_BANNER"
-                                       ads:adUnitId="@string/banner_ads_top_unit_id" />
+    <com.google.android.gms.ads.AdView
+            android:id="@+id/banner_top"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            ads:adSize="SMART_BANNER"
+            ads:adUnitId="@string/banner_ads_top_unit_id" />
     <RelativeLayout
             android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/bacground"/>
+
+    <RelativeLayout
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight="1">
-        <Button
+            android:layout_weight="1"
+            android:layout_gravity="center_horizontal">
+        <Button android:id="@+id/play_button"
                 android:background="@android:drawable/ic_media_play"
-                android:layout_width="72dp"
-                android:layout_height="72dp"
-                android:layout_centerHorizontal="true"
-                android:layout_centerVertical="true"/>
+                android:layout_width="@dimen/button_size"
+                android:layout_height="@dimen/button_size"
+                android:layout_marginRight="@dimen/button_margin"
+                android:layout_centerVertical="true"
+                android:onClick="play"/>
+        <Button android:background="@android:drawable/ic_media_pause"
+                android:layout_width="@dimen/button_size"
+                android:layout_height="@dimen/button_size"
+                android:layout_marginLeft="@dimen/button_margin"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@id/play_button"
+                android:onClick="stop"/>
     </RelativeLayout>
 
-    <com.google.android.gms.ads.AdView android:id="@+id/banner_botoom"
-                                       android:layout_height="wrap_content"
-                                       android:layout_width="match_parent"
-                                       ads:adSize="SMART_BANNER"
-                                       ads:adUnitId="@string/banner_ads_bottom_unit_id"/>
+    <com.google.android.gms.ads.AdView
+            android:id="@+id/banner_botoom"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            ads:adSize="SMART_BANNER"
+            ads:adUnitId="@string/banner_ads_bottom_unit_id"/>
 </LinearLayout>
