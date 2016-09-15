@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "130542262856",
+    "firebase_url": "https://borsh-fb0ba.firebaseio.com",
+    "project_id": "borsh-fb0ba",
+    "storage_bucket": "borsh-fb0ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130542262856:android:262f5721444c9e69",
+        "android_client_info": {
+          "package_name": "ua.uagames.borsch.v001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130542262856-vq062thbmv690lvip4m79u89h37imhtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyamtIkeIzGZJIknAXv5QLIJjmOboNBdk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130542262856:android:b14a9e0ac34796ff",
+        "android_client_info": {
+          "package_name": "ua.uagames.borsch.v002"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130542262856-vq062thbmv690lvip4m79u89h37imhtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyamtIkeIzGZJIknAXv5QLIJjmOboNBdk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
