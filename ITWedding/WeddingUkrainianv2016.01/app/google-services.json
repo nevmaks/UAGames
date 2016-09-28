@@ -1,0 +1,236 @@
+{
+  "project_info": {
+    "project_number": "62926639759",
+    "firebase_url": "https://it-wedding-v2016-01.firebaseio.com",
+    "project_id": "it-wedding-v2016-01",
+    "storage_bucket": "it-wedding-v2016-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62926639759:android:0d927d1da74cb6c6",
+        "android_client_info": {
+          "package_name": "ua.org.nevdashchenko.itwedding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62926639759-669l0kroam8lbhnd3do8djonsmv7cahg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ua.org.nevdashchenko.itwedding",
+            "certificate_hash": "2DAAB0F85154810437D6BA5CBA60D45B57FFB5B2"
+          }
+        },
+        {
+          "client_id": "62926639759-r0e0vl9ghg9b090qj0vgd2fn7r260mv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisWW2C3JWvgT0-kZOgqh69Pq-G7dlYWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62926639759:android:4af0598dd92c5718",
+        "android_client_info": {
+          "package_name": "ua.uagames.itwedding.v201602"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62926639759-r0e0vl9ghg9b090qj0vgd2fn7r260mv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisWW2C3JWvgT0-kZOgqh69Pq-G7dlYWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62926639759:android:6a66d5d0dd1b794f",
+        "android_client_info": {
+          "package_name": "ua.uagames.itwedding.v201603"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62926639759-r0e0vl9ghg9b090qj0vgd2fn7r260mv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisWW2C3JWvgT0-kZOgqh69Pq-G7dlYWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62926639759:android:e5ff2880bc43455f",
+        "android_client_info": {
+          "package_name": "ua.uagames.itwedding.v201604"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62926639759-r0e0vl9ghg9b090qj0vgd2fn7r260mv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisWW2C3JWvgT0-kZOgqh69Pq-G7dlYWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62926639759:android:a3326cfbe60db361",
+        "android_client_info": {
+          "package_name": "ua.uagames.itwedding.v201605"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62926639759-r0e0vl9ghg9b090qj0vgd2fn7r260mv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisWW2C3JWvgT0-kZOgqh69Pq-G7dlYWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62926639759:android:f6c14a409d4c6adc",
+        "android_client_info": {
+          "package_name": "ua.uagames.wedding.it.v201606"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62926639759-r0e0vl9ghg9b090qj0vgd2fn7r260mv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisWW2C3JWvgT0-kZOgqh69Pq-G7dlYWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62926639759:android:092303f14dee7b92",
+        "android_client_info": {
+          "package_name": "ua.uagames.wedding.ukrainian.v201601"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62926639759-r0e0vl9ghg9b090qj0vgd2fn7r260mv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisWW2C3JWvgT0-kZOgqh69Pq-G7dlYWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
